@@ -1,9 +1,9 @@
 # flexbox-
 Atividade 8
 
-Dupla: Isabelle Campos Silva 
-E
-Julia da Costa Bernardo 
+# Dupla 
+- Isabelle Campos Silva 
+- Julia da Costa Bernardo 
 
 Atividade 1 — Leitura de Flexbox:
 
@@ -22,3 +22,6 @@ Atividade 5 — Experimento controlado (Tabela):
 · Teste C (flex-direction: column): Os cards ficarão empilhados um em cima do outro (como uma lista). O eixo principal passa a ser vertical.
 
 · Teste D (flex-wrap: nowrap): Os cards não vão mais quebrar de linha. Se você diminuir a tela do celular, eles vão esmagar uns contra os outros (encolher) para caber tudo na mesma linha, podendo até cortar o texto.
+
+# Link do site 
+https://isabellecampos-cmyk.github.io/flexbox-/
