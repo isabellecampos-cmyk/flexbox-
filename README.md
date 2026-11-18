@@ -2,6 +2,7 @@
 Atividade 8
 
 Dupla: Isabelle Campos Silva 
+E
 Julia da Costa Bernardo 
 
 Atividade 1 — Leitura de Flexbox:
